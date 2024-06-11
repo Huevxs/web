@@ -1,0 +1,36 @@
+.uwu{
+	font-size:10px;
+	text-align:center;
+}
+.abajo{
+	background:grey;
+	text-align:center;
+}
+  header{
+  background-color:#D6EAF8; 
+  width:135%;
+  height:48px;
+  }
+  
+  header nav ul li{
+  list-style-type:none;
+  float:left;
+  }
+  
+  header nav ul li a{
+  text-decoration:none;
+  padding:15px 20px 15px 20px;
+  display:inline-block;
+  color:#2d3646;
+  }
+  
+  header nav li a:hover{
+  background-color: #2d3646;
+  color:white;
+  }
+  .img{
+	  background:white;
+	  width:700px;
+	height:450px;
+	text-align:center;
+  }

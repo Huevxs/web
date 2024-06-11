@@ -1,0 +1,102 @@
+BODY{ 
+background: #36D1DC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+} 
+*{ 
+MARGIN: 5PX; 
+PADDING: 2.5PX; 
+BOX-SIZING: BORDER-BOX; 
+}
+ 
+.CONTENEDORPRINCIPAL{ 
+MAX-WIDTH: 1000PX; 
+MARGIN: 0; 
+} 
+HEADER{ 
+BACKGROUND-COLOR: #D6EAF8; 
+WIDTH:120%; 
+HEIGHT:70PX; 
+} 
+HEADER NAV UL LI{ 
+  LIST-STYLE-TYPE: NONE;
+  FLOAT: LEFT;
+`}
+HEADER NAV UL LI A {
+	TEXT-DECORATION: NONE;
+	PADDING: 15PX 20PX 20PX 20PX;
+	DISPLAY: INLINE-BLOCK;
+	COLOR: #2d3646;
+}
+HEADER NAV UL LI A:HOVER{
+	BACKGROUND-COLOR: #e52f6e;
+	color:white;
+}
+.imagen-portada {
+	BACKGROUND-IMAGE: URL(
+	"https://cdn-3.expansion.mx/dims4/default/82366ab/2147483647/strip/true/crop/800x420+0+15/resize/1200x630!/format/jpg/quality/80/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F42%2Fc4%2F22d6f8d04493a1c2691aaf6a1c40%2Fgalletas-1.jpg");
+	HEIGHT: 500PX;
+	BACKGROUND-POSITION: CENTER;
+	BACKGROUND-REPEAT: NO-REPEAT;
+	BACKGROUND-SIZE: COVER;
+	POSITION:RELATIVE;
+	
+}
+.CBTA-TEXT {
+	TEXT-ALIGN: CENTER;
+	POSITION: ABSOLUTE;
+	TOP: 50%;
+	LEFT: 50%;
+	TRANSFORM: TRANSLATE(-50%, -50%);
+	COLOR: WHITE;
+
+}
+H1{
+	FONT-SIZE:70PX;
+	color:#2C3E50;
+	TEXT-ALIGN:CENTER;
+	BACKGROUND-COLOR:WHITE;
+	MARGIN-TOP:60PX;
+	BORDER-RADIUS:5PX;
+	
+}
+H3{
+	FONT-SIZE:40PX;
+	color:#2C3E50;
+	TEXT-ALIGN:CENTER;
+	BACKGROUND-COLOR:WHITE;
+	BORDER-RADIUS:5PX;
+}
+BUTTON {
+	PADDING: 15PX 45PX;
+	BACKGROUND-COLOR: #H6E2C00;
+	COLOR: WHITE;
+	BORDER: NONE;
+	BORDER-RADIUS: 5PX;
+	CURSOR: POINTER;
+	MARGIN-TOP:40PX;
+	MARGIN-left:40%;
+	
+}
+
+	.uwu{
+	font-size:10px;
+	text-align:center;
+}
+.abajo{
+	background:grey;
+	text-align:center;
+}
+.co{
+	background-color:white;
+	margin:15px;
+	text-align:center;
+}
+	
+	
+
+	
+
+
+
+

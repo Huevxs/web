@@ -1,0 +1,65 @@
+  header{
+  background-color:#D6EAF8; 
+  width:135%;
+  height:48px;
+  }
+  
+  header nav ul li{
+  list-style-type:none;
+  float:left;
+  }
+  
+  header nav ul li a{
+  text-decoration:none;
+  padding:15px 20px 15px 20px;
+  display:inline-block;
+  color:#2d3646;
+  }
+  
+  header nav li a:hover{
+  background-color: #2d3646;
+  color:white;
+  }
+  
+.cac{
+    padding: 40px;
+    width: 350px;
+    height: auto;
+    margin: auto;
+	background-color:pink;
+	font-family:Eras-Light-ITC;
+	font-size:25px;
+	
+	
+}
+.insta{
+	width:200px;
+	height:200px;
+	margin:50px;
+	display:flex-basis;
+	justify-content:space-between;
+	white-space:pre-line;
+	text-align:center;
+	
+}
+body{
+	background: #304352;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #d7d2cc, #304352);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.uwu{
+	font-size:10px;
+	text-align:center;
+}
+.abajo{
+	background:grey;
+	text-align:center;
+}
+
+.come{
+	text-align:center;
+	background:white;
+	margin:20px;
+}
+
